@@ -4,6 +4,8 @@
 I am Meri from Georgia and I am a Microverse Student. 
 I enjoy learning programming languages and working on different development projects. 
 
+![typing code](https://github.com/Meri-MG/Meri-MG/blob/main/typing.gif)
+
 ## Skills and Experience:
 💻 - JS / HTML / CSS
 
