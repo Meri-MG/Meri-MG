@@ -1,7 +1,8 @@
 ### Hi there, I'm Meri 👋 
 #### Full-Stack Developer
 
-I am Meri from Georgia and I am a Microverse Student. I enjoy learning programming languages and working on different development projects. 
+I am Meri from Georgia and I am a Microverse Student. 
+I enjoy learning programming languages and working on different development projects. 
 
 ## Skills and Experience:
 💻 - JS / HTML / CSS
