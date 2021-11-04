@@ -1,5 +1,5 @@
 ### Hi there, I'm Meri 👋 
-#### Full-Stack Developer
+#### Full-Stack Developer To Be
 
 > I am Meri from Georgia and I am a Microverse Student. 
 > I enjoy learning programming languages and working on different development projects. 
