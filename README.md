@@ -1,9 +1,9 @@
 ### Hi there, I'm Meri 👋 
-#### Full-Stack Developer To Be
+#### Full-Stack Developer To Be   <img src="https://github.com/Meri-MG/Meri-MG/blob/main/code.gif" width="400">
 
 > I am Meri from Georgia and I am a Microverse Student. 
 > I enjoy learning programming languages and working on different development projects. 
-<img src="https://github.com/Meri-MG/Meri-MG/blob/main/typing.gif" width="400">
+
 
 
 ## Skills and Experience:
