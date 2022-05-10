@@ -1,19 +1,20 @@
 ### Hi there, I'm Meri 👋 
-#### Full-Stack Developer To Be   <img src="https://github.com/Meri-MG/Meri-MG/blob/main/code.gif" width="400">
+#### Full-Stack Developer  
+> I enjoy learning programming languages and working in a collaborative environment. 
 
-> I am Meri from Georgia and I am a Microverse Student. 
-> I enjoy learning programming languages and working on different development projects. 
+<img src="https://github.com/Meri-MG/Meri-MG/blob/main/code.gif" width="400" style ="display: block; margin-left: auto;
+  margin-right: auto; width: 50%">
 
 
 
 ## Skills and Experience:
-💻 - JS / HTML / CSS
+💻 - JavaScript / CSS / HTML / Ruby / Ruby on Rails / React
 
 
 - 🔭 I’m currently working on web-development skills
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React/Redux
 - 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili-457297218/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Each day has a different color for me 
 
