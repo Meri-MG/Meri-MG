@@ -2,7 +2,7 @@
 #### Full-Stack Developer  
 > I enjoy learning programming languages and working in a collaborative environment. 
 
-<img src="https://github.com/Meri-MG/Meri-MG/blob/main/code.gif" width="400" style ="display: block; margin-left: auto;
+<img src="https://github.com/Meri-MG/Meri-MG/blob/main/code.gif" width="800" style ="display: block; margin-left: auto;
   margin-right: auto; width: 50%">
 
 
